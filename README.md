@@ -3,7 +3,8 @@ theme: gaia
 class:
  - invert
 headingDivider: 2 
-paginate: true
+paginate: true 
+marp: true 
 -->
 
 <!--
